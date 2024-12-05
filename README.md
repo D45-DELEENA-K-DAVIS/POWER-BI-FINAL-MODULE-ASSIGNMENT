@@ -1,2 +1,2 @@
 # POWER-BI-FINAL-MODULE-ASSIGNMENT
-POWER BI ASSIGNMENT
+Importing and Preprocessing Dataset Proficiency in importing the dataset into PowerBI. Effective preprocessing techniques applied to ensure data quality. 3. Utilization of a minimum of 7 visuals to convey insights effectively. 4. Inclusion of Buttons, Bookmarks, Images: Incorporation of interactive elements such as buttons and bookmarks to enhance user experience. Integration of relevant images to complement data analysis. Neat Organization of Report :Clear titling, consistent colors, and thoughtful formatting to improve readability and aesthetics. 6. Insightful Analysis. Depth of insights derived from the data. Demonstrated understanding of key trends or patterns. 
